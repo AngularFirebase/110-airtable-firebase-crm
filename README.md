@@ -1,7 +1,5 @@
-# Episode 10X
+# Episode 110 - Airtable
 
+Learn how to integrate [Airtable](https://airtable.com/invite/r/Fikt3lti) with Firestore to build a feature-rich CRM for your business. 
 
-1. `git clone <this-repo>` 
-2. `npm install`
-3.  Add your firebase credentials to the `app.module`
-4. `ng serve`
+Watch the [screencast](https://angularfirebase.com/lessons/)
